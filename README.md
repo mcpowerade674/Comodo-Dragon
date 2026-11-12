@@ -211,4 +211,4 @@ Comodo Dragon is provided as a full free version. Enjoy all features and updates
 Start your secure browsing journey today with Comodo Dragon! Download now and experience the difference.
 
 ---
-**Last updated:** 2026-11-12 01:11:49 UTC
+**Last updated:** 2026-11-12 08:59:46 UTC
